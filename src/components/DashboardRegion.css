@@ -1,0 +1,5 @@
+.dashboardregion-dashboardbutton-region, .dashboardregion-dashboardbutton-region:hover{
+    cursor: default;
+    color: White;
+    background: rgba(0, 0, 255, 0.651);  
+}

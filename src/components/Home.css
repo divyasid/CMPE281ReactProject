@@ -1,0 +1,42 @@
+.main-class-home{
+    background: linear-gradient(to left , rgba(2,0,36,1) 0%, rgba(91,9,121,0.5) 34%, rgba(0,212,255,0.5) 100%);
+    height: 100vh;
+}
+
+.para{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 1000;
+    padding: 25px;
+    color: black;
+    border-bottom-color: black;
+    border: 3px;
+    border-style: solid;
+    align-content: center;
+}
+.sub-class-para-home{
+    padding-top: 50px;
+}
+.barChart{
+    background-color: #ffff;
+    opacity: 0.7;
+    margin: 60px 20px 0px 0px;
+    height: 400px;
+}
+.pieChart{
+    background-color: #ffff;
+    opacity: 0.7;
+    margin: 60px 20px 0px 0px;
+    height: 400px;
+}
+.register-button{
+    width: 350px;
+    height: 35px;
+    font-family: sans-serif;
+    font-size: 22px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    margin-left: 30em;
+    margin-top: 60px;
+}
